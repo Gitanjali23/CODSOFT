@@ -1,0 +1,47 @@
+body{
+    background: rgba(0, 0, 0, 0.705)
+}
+#display{
+width: 300px;
+height:450px;
+border: 2px solid rgb(197, 195, 195);
+border-radius: 5px;
+text-align: center;
+margin: 33px; 
+margin-left: 33%;
+}
+#show{
+    width: 250px;
+    height: 40px;
+    border: 1px;
+    outline: rgba(0, 0, 128, 0.212);
+background-color: transparent;
+color: rgba(255, 255, 255, 0.904);
+text-align: right;
+margin: 25px;
+margin-top: 13px;
+font-size: 35px;
+}
+::placeholder{
+    color: white;
+}
+#oper{
+    color: rgba(153, 205, 50, 0.90);
+}
+#opt{
+    background: orange;
+}
+.btn{
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    color: white;
+    border-radius: 50%;
+    border: none;
+    outline: none;
+    font-size: 25px;
+    margin: 10px;
+    box-shadow: -4px -4px 10px rgba(128, 128, 128, 0.400);
+}
+
+
